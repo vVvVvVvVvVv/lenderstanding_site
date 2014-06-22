@@ -1,0 +1,13 @@
+mkdir insight_git
+
+???
+???
+
+cd .git/
+ls
+cd ..
+touch some_file.txt
+ls
+git commit -m "first commit"
+
+git status
